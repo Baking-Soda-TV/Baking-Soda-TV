@@ -1,0 +1,35 @@
+{
+"providerName": "Baking Soda TV",
+"lastUpdated": "2025-03-24T12:00:00Z",
+"language": "en",
+"series": [],
+"movies": [],
+"shortFormVideos": [
+{
+"id": "Browse",
+"title": "Featured",
+"shortDescription": "This is a sample video for Roku Channel.",
+"thumbnail": "https://antcpu.com/TV/images/IMG_20250717_152802.jpg",
+"releaseDate": "2025-03-01",
+"genres": ["music video", "entertainment"],
+"tags": ["hiphop", "interviews"],
+"content": {
+"dateAdded": "2025-03-01T12:00:00Z",
+"videos": [
+{
+"url": "https://bakingsodatv.vhx.tv/browse/",
+"quality": "HD",
+"videoType": "MP4"
+}
+],
+"duration": 120
+}
+}
+],
+"categories": [
+{
+"name": "Featured",
+"playlist": ["Browse"]
+}
+]
+}
